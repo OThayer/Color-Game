@@ -1,2 +1,2 @@
-# Udemy-Projects
-These are the projects I worked on during the Web developer Udemy class
+# Color-Game
+This is a simple color game intended to help people become more comfortable with RGB colors.
